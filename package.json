@@ -1,0 +1,11 @@
+{
+  "name": "youtube-backend",
+  "version": "1.0.0",
+  "description": "A backend of You tube",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "Nikhil Kumar Yadav",
+  "license": "ISC"
+}
