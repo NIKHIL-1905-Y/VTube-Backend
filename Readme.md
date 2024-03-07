@@ -1,6 +1,6 @@
 
 # V tube 
-This is a project series on backend with javascript
+This is Video Tube project on backend with javascript
 
 
 
